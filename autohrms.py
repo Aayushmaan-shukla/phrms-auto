@@ -15,9 +15,9 @@ logging.basicConfig(filename='punch_script.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Define your credentials
-COMPANY_CODE = "EPS"
-EMPLOYEE_CODE = "85"
-PASSWORD = "8528122002"
+COMPANY_CODE = ""
+EMPLOYEE_CODE = ""
+PASSWORD = ""
 
 # URL of the login page
 LOGIN_URL = "https://selfservice.pockethrms.com/"
