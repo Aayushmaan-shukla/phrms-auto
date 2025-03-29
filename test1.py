@@ -5,9 +5,9 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Define your credentials
-COMPANY_CODE = "EPS"
-EMPLOYEE_CODE = "85"
-PASSWORD = "8528122002"  # Replace with the actual password
+COMPANY_CODE = ""
+EMPLOYEE_CODE = ""
+PASSWORD = ""  # Replace with the actual password
 
 # URL of the login page
 LOGIN_URL = "https://selfservice.pockethrms.com/"
